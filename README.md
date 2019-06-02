@@ -1,4 +1,3 @@
-<br>
 # Thesis-for-Graduation
 
 This is the graduation thesis for a bachelor in Wuhan University. This project is mainly about the Boosting method. I compared and deduced
